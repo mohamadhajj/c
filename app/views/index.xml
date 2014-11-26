@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" layout="vertical" >
+		<Label id="label" onClick="doClick">chow image</Label>
+		<Label id="label1" onClick="doClick1" left="0">get and save image</Label>
+	</Window>
+</Alloy>
